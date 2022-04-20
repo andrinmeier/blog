@@ -1,0 +1,6 @@
+baseURL = 'https://blog.pricemeier.ch'
+languageCode = 'en-us'
+title = "Andrins Blog"
+theme = "newsroom"
+relativeURLs = true
+uglyURLs = true
